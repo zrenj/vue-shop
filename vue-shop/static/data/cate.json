@@ -1,0 +1,182 @@
+{
+    "state": 1,
+    "msg": "success",
+    "data": {
+        "types": [
+            {
+                "type_name": "全部",
+                "type_now": "type_all"
+            },
+            {
+                "type_name": "男装",
+                "type_now": "type_man"
+            },
+            {
+                "type_name": "女装",
+                "type_now": "type_girl"
+            },
+            {
+                "type_name": "家电",
+                "type_now": "type_man"
+            },
+            {
+                "type_name": "家居",
+                "type_now": "type_man"
+            },
+            {
+                "type_name": "数码",
+                "type_now": "type_girl"
+            },
+            {
+                "type_name": "手机",
+                "type_now": "type_girl"
+            }
+        ],
+        "allBrand": [
+            {
+                "id": 100048,
+                "type": "type_man",
+                "brand_price": 79.9,
+                "brand_name": "商品名字1",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3507639679,3740069805&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100047,
+                "type": "type_man",
+                "brand_price": 89.9,
+                "brand_name": "商品名字2",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100046,
+                "type": "type_girl",
+                "brand_price": 99.9,
+                "brand_name": "商品名字3",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100045,
+                "type": "type_girl",
+                "brand_price": 49.9,
+                "brand_name": "商品名字4",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100044,
+                "type": "type_girl",
+                "brand_price": 59.9,
+                "brand_name": "商品名字5",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100043,
+                "type": "type_girl",
+                "brand_price": 69.9,
+                "brand_name": "商品名字6",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_girl",
+                "brand_price": 19.9,
+                "brand_name": "商品名字7",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100041,
+                "type": "type_girl",
+                "brand_price": 29.9,
+                "brand_name": "商品名字8",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100040,
+                "type": "type_man",
+                "brand_price": 39.9,
+                "brand_name": "商品名字9",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字10",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字11",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字12",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字13",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字14",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字15",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字16",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字17",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 100042,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字end",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "http://img2.imgtn.bdimg.com/it/u=1830328850,460221396&fm=26&gp=0.jpg"
+            }
+        ]
+    }
+}

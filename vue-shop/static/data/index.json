@@ -1,0 +1,118 @@
+{
+    "state": 1,
+    "msg": "success",
+    "data": {
+        "temai": [
+            {
+                "id": 100048,
+                "type": "type_man",
+                "brand_price": 59.0,
+                "brand_name": "商品名字1",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=674916703,1685938371&fm=27&gp=0.jpg"
+            },
+            {
+                "id": 100047,
+                "type": "type_man",
+                "brand_price": 59.0,
+                "brand_name": "商品名字2",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100041,
+                "type": "type_man",
+                "brand_price": 59.0,
+                "brand_name": "商品名字3",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            }
+        ],
+        "rexiao": [
+            {
+                "id": 100030,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字4",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100031,
+                "type": "type_man",
+                "brand_price": 59.9,
+                "brand_name": "商品名字5",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100032,
+                "type": "type_man",
+                "brand_price": 69.9,
+                "brand_name": "商品名字6",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "img1.webp"
+            }
+        ],
+        "jinkou": [
+            {
+                "id": 100099,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名字4",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100098,
+                "type": "type_man",
+                "brand_price": 59.9,
+                "brand_name": "商品名字5",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100097,
+                "type": "type_man",
+                "brand_price": 69.9,
+                "brand_name": "商品名字6",
+                "brand_desc": "商品描述商品",
+                "brand_pic_url": "img1.webp"
+            }
+        ],
+        "jingpin": [
+            {
+                "id": 100058,
+                "type": "type_man",
+                "brand_price": 19.9,
+                "brand_name": "商品名10",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100057,
+                "type": "type_man",
+                "brand_price": 29.9,
+                "brand_name": "商品名11",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100056,
+                "type": "type_man",
+                "brand_price": 39.9,
+                "brand_name": "商品名12",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            },
+            {
+                "id": 100055,
+                "type": "type_man",
+                "brand_price": 49.9,
+                "brand_name": "商品名13",
+                "brand_desc": "商品描述商品描述",
+                "brand_pic_url": "img1.webp"
+            }
+        ]
+    }
+}
